@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Solokit.dk — Gratis værktøjer til danske freelancere",
+  title: "SoloKit — Gratis værktøjer til danske freelancere",
   description:
-    "Beregn moms, timepris, faktura og B-skat. Gratis online værktøjer til freelancere og soloselvstændige i Danmark.",
+    "Beregn moms, timepris og lav fakturaer gratis. Det komplette toolkit til selvstændige og freelancere i Danmark.",
   keywords: [
     "freelancer",
     "soloselvstændig",
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     "gratis værktøjer",
   ],
   openGraph: {
-    title: "Solokit.dk — Gratis værktøjer til danske freelancere",
+    title: "SoloKit — Gratis værktøjer til danske freelancere",
     description:
-      "Beregn moms, timepris, faktura og B-skat. Gratis online værktøjer til freelancere og soloselvstændige i Danmark.",
+      "Beregn moms, timepris og lav fakturaer gratis. Det komplette toolkit til selvstændige og freelancere i Danmark.",
     locale: "da_DK",
     type: "website",
     url: "https://solokit.dk",
